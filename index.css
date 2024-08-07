@@ -28,8 +28,7 @@ h1 {
     font-style: italic;
 }
 
-/* 3. Make sure that the two buttons have some space between
-each other when they are rendered out vertically */
+
 button {
     color: black;
     width: 150px;
@@ -45,5 +44,5 @@ button {
 #blackjack-img{
    display: none;
    width: 20rem;
-   height: auto;
+   height: 35rem;
 }
